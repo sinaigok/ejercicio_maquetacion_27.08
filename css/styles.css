@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+.ejercicio1{
+    background-color: darkslateblue;
+    height: 100vh; /*vh significa "viewport high" osea el 100% del alto de la pantalla*/
+    padding: 100px;
+}
+.ejercicio1.card1{
+    width: 410px;
+    background-color: white;
+    border-radius: 30px;
+    margin: 0 auto;
+}
+.ejercicio1.card1 img{}
+.ejercicio1.card1.datoscarga{}
+.ejercicio1.card1.datoscarga p{}
+.ejercicio1.card1.listaarchivos{}
